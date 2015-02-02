@@ -5,7 +5,7 @@ had to dig around to find the original source code, which unsurprisingly is a wh
 
 this script performans batch reverb. change the file to whatever you want. 
 
-yes it is very, very slow. no pointers, matrices are getting passed in and out like crazy, performance is not the point! 
+yes it is very, very slow. no pointers in matlab, and matrices are getting passed in and out like crazy, performance is not the point (of this particular exercise)! 
 
 i wanted to see how the thing works. and now it does. it is slow but does the freeverb. 
 
